@@ -18,6 +18,12 @@ Programmatically control calibration with an autocal unit as part of your test a
 ### Deembedding
 Apply deembedding for each port from touchstone (`s2p`) files.
 
+### Fixture Compensation
+Compensate for the electrical length of a fixture path, used frequently in time-domain skew measurements.
+
+### Cal Groups
+Save calibrations and recall previous calibrations.
+
 ### File Transfer
 Read (download) and write (upload) files to and from the VNA
 
